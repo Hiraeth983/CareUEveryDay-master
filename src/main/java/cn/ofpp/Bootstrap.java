@@ -19,7 +19,7 @@ public class Bootstrap {
     /**
      * 公众号秘钥
      */
-    public static final String SECRET = "35162a9e503b4a2b9944140295ed4c8a";
+    public static final String SECRET = "a4051154554f5d9bdd825a892bb2cc15";
 
     /**
      * 全局模板ID  也可针对单个Friend指定模板
