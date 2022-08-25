@@ -34,9 +34,9 @@ public class Application {
 
 
         // new 一个 男友 也可单独针对一个friend设置模板ID 以达到不同人不同消息
-        BoyFriend boyFriend = new BoyFriend("李龙",
-                "浙江省", "杭州市", "2001-10-13", "1970-01-01", "oq10X6CPu5APKkwjp3dj-BcCEORk", "h7GZV5b2YoR-ad2IBy5qsywUw8-1KkE5iD3vNLEsBlU");
-        Wx.sendTemplateMessage(MessageFactory.resolveMessage(boyFriend));
+        //BoyFriend boyFriend = new BoyFriend("李龙",
+        //        "浙江省", "杭州市", "2001-10-13", "1970-01-01", "oq10X6CPu5APKkwjp3dj-BcCEORk", "h7GZV5b2YoR-ad2IBy5qsywUw8-1KkE5iD3vNLEsBlU");
+        //Wx.sendTemplateMessage(MessageFactory.resolveMessage(boyFriend));
     }
 
 }
